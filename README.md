@@ -1,5 +1,5 @@
 # Hi there, I'm ZALOK
-"I'm a Computer Engineering student in my final year of studies. I have gained solid experience as a full-stack developer, and I also have experience in mobile app development. I am passionate about technology and always seeking opportunities to learn and grow my skills.
+I'm a Computer Engineering student in my final year of studies. I have gained solid experience as a full-stack developer, and I also have experience in mobile app development. I am passionate about technology and always seeking opportunities to learn and grow my skills.
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/naik0_) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/whoisnaiko) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/nchandia/) 
